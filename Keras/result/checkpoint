@@ -1,0 +1,2 @@
+model_checkpoint_path: "MobileV2_Feature_60_224_reduce.ckpt"
+all_model_checkpoint_paths: "MobileV2_Feature_60_224_reduce.ckpt"
